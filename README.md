@@ -11,6 +11,7 @@
       background: linear-gradient(135deg, #ff9a9e, #fad0c4);
       min-height: 100vh;
     }
+    
     .c { max-width: 700px; margin: 0 auto; padding: 15px; }
     h1 {
       text-align: center;
